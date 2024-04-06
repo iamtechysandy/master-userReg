@@ -16,7 +16,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/iamtechysandy/user-registration.git
+git clone https://github.com/iamtechysandy/master-userReg.git
 Import the database schema (database.sql) into your MySQL database.
 Update the database configuration in include/db_config.php with your database credentials.
 Configure your SMTP server settings in the appropriate files (signup_process.php, reset_password.php, send_reset_link.php, etc.) for sending verification and reset emails.
